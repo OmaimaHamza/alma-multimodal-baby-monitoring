@@ -1,0 +1,41 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Model artifacts and datasets
+# Uncomment if these files should not be versioned
+# datasets/
+# *.pt
+# *.pth
+# *.onnx
+
+# Secrets and local configuration
+credentials.json
+service-account*.json
+secrets.yaml
+config.local.yaml
+
+# Arduino IDE
+*.elf
+*.hex
+*.bin
+*.o
+*.a
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
