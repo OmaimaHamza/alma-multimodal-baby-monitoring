@@ -11,7 +11,6 @@
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-6C5CE7?style=for-the-badge)](https://opencv.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
-[Project Documentation](docs/README.md) ·
 [AI Models](ai-models/README.md) ·
 [Hardware](hardware/README.md) ·
 [Interface Demo](interface/README.md)  
